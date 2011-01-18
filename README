@@ -1,3 +1,3 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=2633
+This script has been renamed to csindent.vim.
 
-If you have many projects with different coding styles (indent settings), then use this plug-in
+http://github.com/vim-scripts/csindent.vim
